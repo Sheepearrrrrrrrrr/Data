@@ -1,1 +1,9 @@
-{}
+{
+    "require_current_format": true,
+    "custom_commands": true,
+    "custom_enchantments": true,
+    "giving_operator_status": false,
+    "scoreboard_manipulation": false,
+    "tag_manipulation": true,
+    "text_replacement": true
+}
