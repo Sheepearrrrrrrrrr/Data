@@ -5,5 +5,7 @@
     "allow_granting_operator_status": false,
     "allow_scoreboard_manipulation": false,
     "allow_tag_manipulation": true,
-    "allow_text_replacement": true
+    "allow_text_replacement": true,
+    "output_registering_phases": false,
+    "allow_resource_pack_application": false
 }
