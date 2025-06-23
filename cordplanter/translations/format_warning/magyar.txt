@@ -1,0 +1,10 @@
+===========================================================================================================================================================
+
+!!! FIGYELEM !!!
+
+CordPlanter beállításai nem kötelezik a munkapaneleket, hogy a jelenlegi formátumot használják. Ez a definíciók helytelen olvasásához vagy hiányzó funkciókhoz vezethet.
+A plugin stabil és zökkenőmentes működése érdekében bekapcsolnám ezt a beállítást.
+E figyelmeztetés kikapcsolásához írd át a "disable_format_warning" opciót igazra (true) a data.json konfigurációs fájlban.
+    - Sheepearrr, a CordPlanter tulajdonosa
+
+===========================================================================================================================================================
