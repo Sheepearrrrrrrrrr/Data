@@ -1,0 +1,10 @@
+===========================================================================================================================================================
+
+!!! KRITIKUS FIGYELMEZTETÉS !!!
+
+CordPlanter beállításai engedélyezik bármely munkapanelnek, hogy OPERÁTOR STÁTUSZT adjon/vegyen el bármely játékosnak/játékostól. Ezt lehet használni egy force-op exploitként, még olyan ártalmatlannak tűnő dolgokban, mint például a szöveg cserélés (text replacement).
+Csak akkor kapcsold be ezt a beállítást ha nagyon kell.
+Kérlek futtasd le a "/workspace settings reset allow_granting_operator_status" parancsot, hogy visszaállítsd ezt a beállítást.
+    - Sheepearrr, a CordPlanter tulajdonosa
+
+===========================================================================================================================================================
