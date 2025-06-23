@@ -1,0 +1,9 @@
+===========================================================================================================================================================
+
+!!! FIGYELEM !!!
+
+Egy CordPlanter munkapanel OPERÁTOR STÁTUSZT akart adni/elvenni egy játékosnak/játékostól, de nem sikerült ez, mivel a beállítások ezt megtagadják.
+Kérlek a saját védelmed érdekében nézd át minden munkapanelt, amely éppen aktív, mert akár szöveg cserélés (text replacement) a megfelelő konteksztusban megszólaltathatja ezt a figyelmeztetést.
+    - Sheepearrr, a CordPlanter tulajdonosa
+
+===========================================================================================================================================================
