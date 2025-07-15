@@ -8,5 +8,6 @@
     "allow_text_replacement": true,
     "output_registering_phases": false,
     "allow_resource_pack_application": false,
-    "allow_translations": true
+    "allow_translations": true,
+    "allow_workspace_configs": true
 }
