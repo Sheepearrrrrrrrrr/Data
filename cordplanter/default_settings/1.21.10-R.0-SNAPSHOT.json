@@ -1,3 +1,5 @@
 {
-  "require_current_format": true
+  "require_current_format": true,
+  "log_registration_phases": false,
+  "allow_custom_commands": true
 }
